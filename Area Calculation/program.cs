@@ -28,6 +28,8 @@ class program
         TriangleAreaCalculation.Run();
 
         RectangleArea.Run();
+        
+        SquareAreaCalculation.Run();
     }
 
     
