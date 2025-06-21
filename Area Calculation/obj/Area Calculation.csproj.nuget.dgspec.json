@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bryantwhitsett/Desktop/repos/Area Calculation/Area Calculation/Area Calculation.csproj": {}
+    "/Users/bryantwhitsett/Desktop/repos/AreaCalculation/Area Calculation/Area Calculation.csproj": {}
   },
   "projects": {
-    "/Users/bryantwhitsett/Desktop/repos/Area Calculation/Area Calculation/Area Calculation.csproj": {
+    "/Users/bryantwhitsett/Desktop/repos/AreaCalculation/Area Calculation/Area Calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bryantwhitsett/Desktop/repos/Area Calculation/Area Calculation/Area Calculation.csproj",
+        "projectUniqueName": "/Users/bryantwhitsett/Desktop/repos/AreaCalculation/Area Calculation/Area Calculation.csproj",
         "projectName": "Area Calculation",
-        "projectPath": "/Users/bryantwhitsett/Desktop/repos/Area Calculation/Area Calculation/Area Calculation.csproj",
+        "projectPath": "/Users/bryantwhitsett/Desktop/repos/AreaCalculation/Area Calculation/Area Calculation.csproj",
         "packagesPath": "/Users/bryantwhitsett/.nuget/packages/",
-        "outputPath": "/Users/bryantwhitsett/Desktop/repos/Area Calculation/Area Calculation/obj/",
+        "outputPath": "/Users/bryantwhitsett/Desktop/repos/AreaCalculation/Area Calculation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bryantwhitsett/.nuget/NuGet/NuGet.Config"
