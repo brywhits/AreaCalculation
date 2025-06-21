@@ -26,6 +26,8 @@ class program
         
         //Calling the triangle calculation Method
         TriangleAreaCalculation.Run();
+
+        RectangleArea.Run();
     }
 
     
